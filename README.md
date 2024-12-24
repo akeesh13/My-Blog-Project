@@ -17,8 +17,8 @@ A modern, responsive blog application to share thoughts, stories, and articles.
 </ol>
 <h4>Setup Instructions</h4>
 <ul>
-  <li>Clone the Repository
+  <li>Clone the Repository:
      git clone https://github.com/your-username/blog-project.git</li>
-  <li>Navigate to the Project Directory
+  <li>Navigate to the Project Directory :
   cd blog-project</li>
 </ul>
