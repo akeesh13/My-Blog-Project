@@ -1,11 +1,17 @@
-# taskyy
-A simple and efficient task management tool to organize your to-dos and boost productivity
+# My-Blog-Project
+A modern, responsive blog application to share thoughts, stories, and articles.
 <h4>Purpose</h4>
-Taskly is designed to help users manage their daily tasks with ease. Whether you're planning a project or tracking personal goals, Taskly simplifies task organization with an intuitive interface.
+<ol>
+<li>Build a fully functional blog platform</li>
+<li>Practice modern web development with React.js, Node.js, and MongoDB</li>
+<li>Implement user authentication and role-based access control</li>
+</ol>
 <h4>Features</h4>
 <ol>
-<li>Create, update, and delete tasks.</li>
-<li>Organize tasks by categories or due dates.</li>
-<li>Mark tasks as completed.</li>
-<li>Responsive design for mobile and desktop users.</li>
+<li>User Authentication: Signup, login, and manage user accounts securely.</li>
+<li>CRUD Functionality: Create, update, delete, and view blog posts.</li>
+<li>Responsive Design: Accessible on desktops, tablets, and mobile devices.</li>
+<li>Rich Text Editor: Write articles with a user-friendly editor.</li>
+<li>Search and Filter: Find blog posts based on keywords or categories.</li>
+<li>Dark Mode: Toggle between light and dark themes.</li>
 </ol>
