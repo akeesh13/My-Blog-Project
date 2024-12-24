@@ -15,3 +15,10 @@ A modern, responsive blog application to share thoughts, stories, and articles.
 <li>Search and Filter: Find blog posts based on keywords or categories.</li>
 <li>Dark Mode: Toggle between light and dark themes.</li>
 </ol>
+<h4>Setup Instructions</h4>
+<ul>
+  <li>Clone the Repository
+     git clone https://github.com/your-username/blog-project.git</li>
+  <li>Navigate to the Project Directory
+  cd blog-project</li>
+</ul>
