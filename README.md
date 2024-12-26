@@ -20,4 +20,13 @@ A modern, responsive blog application to share thoughts, stories, and articles.
   <li>Navigate to the Project Directory :
   cd blog-project</li>
 </ul>
+<h4>Installation</h4>
+<ol>
+<li>Clone the repository: git clone https://github.com/your-username/your-repo-name.git</li>
 
+<li>Navigate to the project directory: cd your-repo-name</li>
+
+<li>Install dependencies: npm install</li>
+
+<li>Start the application: npm start</li>
+</ol>
