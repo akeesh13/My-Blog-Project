@@ -11,7 +11,9 @@ A modern, responsive blog application to share thoughts, stories, and articles.
 <li>User Authentication: Signup, login, and manage user accounts securely.</li>
 <li>CRUD Functionality: Create, update, delete, and view blog posts.</li>
 <li>Responsive Design: Accessible on desktops, tablets, and mobile devices.</li>
-<li>Rich Text Editor: Write articles with a user-friendly editor.</li>add
+<li>Rich Text Editor: Write articles with a user-friendly editor.</li>
+<li>Search and Filter: Find blog posts based on keywords or categories.</li>
+<li>Dark Mode: Toggle between light and dark themes.</li>
 </ol>
 <h4>Setup Instructions</h4>
 <ul>
