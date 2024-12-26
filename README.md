@@ -30,3 +30,19 @@ A modern, responsive blog application to share thoughts, stories, and articles.
 
 <li>Start the application: npm start</li>
 </ol>
+
+<h4>Contributing</h4>
+<ol>
+<li>Fork the repository.</li>
+
+<li>Create a new branch for your feature or bug fix:
+git checkout -b feature/your-feature-name</li>
+
+<li>Make your changes and commit them:
+git commit -m "Add your descriptive commit message"</li>
+
+<li>Push your changes to your forked repository:
+git push origin feature/your-feature-name</li>
+
+<li>Open a pull request on the main repository with a clear description of your changes.</li>
+</ol>
